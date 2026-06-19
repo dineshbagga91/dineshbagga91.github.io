@@ -12,12 +12,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **enhancing my full-stack and machine learning projects**
-- 🌱 I’m currently learning **advanced Python, ML concepts & backend development**
-- 👯 I’m looking to collaborate on **open-source projects involving Java, Python & data analysis**
-- 💬 Ask me about **object-oriented programming, Python ML pipelines & project architecture**
+- 🔭 I’m currently working on **enhancing my full-stack development skills**
 - 📫 How to reach me: **dinesh31191@gmail.com**
-- ⚡ Fun fact: **I enjoy solving real-world problems by building simple, efficient tools**
 
 ---
 
@@ -26,8 +22,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
